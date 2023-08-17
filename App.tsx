@@ -15,6 +15,7 @@ export default function App() {
         <Button
           label={'Choose a photo'}
           onClick={() => alert('You pressed a button 1')}
+          theme={'primary'}
         />
         <Button
           label={'Use this photo'}
